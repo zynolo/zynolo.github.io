@@ -3,10 +3,10 @@
   <tr>
     <td width="75%">
       <h1>张杨</h1>
-      <p><b>Phd Candidate</b></p>
-      <p><b>Email: 804703098@qq.com</b></p>
-      <p><b>Contact: 18202909617</b></p>
-      <p><b>[Google Scholar](https://scholar.google.com.hk/citations?user=p_m9Nj4AAAAJ&hl=zh-CN) </b></p>
+      <p><b>西安交通大学在读博士生</b></p>
+      <p><b>邮箱: 804703098@qq.com</b></p>
+      <p><b>联系方式: 18202909617</b></p>
+      <a href="https://scholar.google.com.hk/citations?user=p_m9Nj4AAAAJ&hl=zh-CN">谷歌学术</a>
     </td>
     <td width="25%">
       <img src="/证件照-白底.jpg" width="100%">   
@@ -24,7 +24,7 @@
 - ### 离线强化学习
 离线强化学习是我在阿里巴巴集团实习期间的主要研究方向，主要工作聚焦于离线强化学习在电子商务市场红包分配算法中的应用。
 - ### 强化学习算法在智能电网中的应用
-在校期间的主要研究方向，将常用的强化学习算法，如DQN及其各类变体算法、DDPG及其变体算法、MADDPG等，应用于智能电网下电能交易市场的电能交易策略学习之中，研究对象包括智能电网下的电动汽车，微网，电动汽车充电站等。
+在校期间的研究方向，将常用的强化学习算法，如DQN及其各类变体算法、DDPG及其变体算法、MADDPG等，应用于智能电网下电能交易市场的电能交易策略学习之中，研究对象包括智能电网下的电动汽车，微网，电动汽车充电站等。
 
 ## 论文成果
 1. Yang Zhang, Bo Tang, Qingyu Yang, Dou An, et al. BCORLE(λ): An Offline Reinforcement Learning and Evaluation Framework for Coupons Allocation in E-commerce Market【NeurIPS'2021】
