@@ -27,11 +27,11 @@
 在校期间的研究方向，将常用的强化学习算法，如DQN及其各类变体算法、DDPG及其变体算法、MADDPG等，应用于智能电网下电能交易市场的电能交易策略学习之中，研究对象包括智能电网下的电动汽车，微网，电动汽车充电站等。
 
 ## 论文成果
-1. Yang Zhang, Bo Tang, Qingyu Yang, Dou An, et al. BCORLE(λ): An Offline Reinforcement Learning and Evaluation Framework for Coupons Allocation in E-commerce Market【NeurIPS'2021】
-2. Yang Zhang, Qingyu Yang, Dou An, Chengwei Zhang. Coordination Between Individual Agents in MultiAgent Reinforcement Learning 【AAAI'2021】
-3. Yang Zhang, Qingyu Yang, Dou An, Donghe Li, Wei Zhao. An Online Continuous Progressive Second Price Auction for Electric Vehicle Charging. IEEE Internet of Things Journal, 2019, 6(2):2907-2921【SCI工程技术一区top, WOS:000467564700137, IF:9.515】
-4. Yang Zhang, Zhengfeng Zhang, Qingyu Yang, Dou An, Donghe Li, Ce Li. EV charging bidding by Multi-DQN reinforcement learning in electricity auction Market. Neurocomputing, 2020, 397: 404-414 【SCI工程技术二区, WOS:000535918100003, IF:4.438】
-5. Yang Zhang, Feiye Zhang, Qingyu Yang, Dou An. Privacy Preserving for Peer-to-peer Communication in Multi-agent Reinforcement Learning. 【IJCAI'2022, Under review】
+1. Yang Zhang, Bo Tang, Qingyu Yang, Dou An, et al. BCORLE(λ): An Offline Reinforcement Learning and Evaluation Framework for Coupons Allocation in E-commerce Market【NeurIPS'2021】 <a href="https://proceedings.neurips.cc/paper/2021/file/ab452534c5ce28c4fbb0e102d4a4fb2e-Paper.pdf">论文链接</a>
+2. Yang Zhang, Qingyu Yang, Dou An, Chengwei Zhang. Coordination Between Individual Agents in MultiAgent Reinforcement Learning 【AAAI'2021】<a href="https://www.aaai.org/AAAI21Papers/AAAI-6070.ZhangY.pdf">论文链接</a>
+3. Yang Zhang, Qingyu Yang, Dou An, Donghe Li, Wei Zhao. An Online Continuous Progressive Second Price Auction for Electric Vehicle Charging. IEEE Internet of Things Journal, 2019, 6(2):2907-2921【SCI工程技术一区top, WOS:000467564700137, IF:9.515】<a href="https://ieeexplore.ieee.org/abstract/document/8493141">论文链接</a>
+4. Yang Zhang, Zhengfeng Zhang, Qingyu Yang, Dou An, Donghe Li, Ce Li. EV charging bidding by Multi-DQN reinforcement learning in electricity auction Market. Neurocomputing, 2020, 397: 404-414 【SCI工程技术二区, WOS:000535918100003, IF:4.438】<a href="https://www.sciencedirect.com/science/article/abs/pii/S0925231220304100">论文链接</a>
+5. Yang Zhang*, Feiye Zhang*, Qingyu Yang, Dou An. Privacy Preserving for Peer-to-peer Communication in Multi-agent Reinforcement Learning. 【IJCAI'2022, Under review, *equal contribuition】
 6. Yang Zhang, Qingyu Yang, Dou An, Donghe Li, Zongze Wu. An Energy Scheduling strategy of Charging Stations via Multi-Agent Reinforcement Learning. IEEE Transactions on Cybernetics 【SCI工程技术一区top ,IF:11.079, Under review】
 7. Yang Zhang, Qingyu Yang, Donghe Li, Dou An. A Reinforcement and Imitation Learning Method for Pricing Strategy of Electricity Retailer with Customers' Flexibility. Applied Energy【SCI工程技术一区top ,IF:9.746, Under review】
 
