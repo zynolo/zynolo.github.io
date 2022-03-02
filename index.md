@@ -3,9 +3,10 @@
   <tr>
     <td width="75%">
       <h1>张杨</h1>
-      <p><b>博士研究生</b></p>
-      <p><b>邮箱 804703098@qq.com</b></p>
-      <p><b>联系方式 18202909617</b></p>
+      <p><b>Phd Candidate</b></p>
+      <p><b>Email: 804703098@qq.com</b></p>
+      <p><b>Contact: 18202909617</b></p>
+      <p><b>[Google Scholar](https://scholar.google.com.hk/citations?user=p_m9Nj4AAAAJ&hl=zh-CN) </b></p>
     </td>
     <td width="25%">
       <img src="/证件照-白底.jpg" width="100%">   
