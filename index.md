@@ -1,4 +1,3 @@
-## 个人信息
 <table border="0">
   <tr>
     <td width="75%">
