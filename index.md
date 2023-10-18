@@ -1,3 +1,4 @@
+<img src="/毕业生代表发言.jpg" alt="some_text">
 <table border="0">
   <tr>
     <td width="75%">
