@@ -42,7 +42,7 @@ profiles:
   # - icon: academicons/orcid
     # url: https://orcid.org/
 
-Research foucs:
+interests:
   - Reinforcement Learning
   - Multi-agent System
   - large Language Model
