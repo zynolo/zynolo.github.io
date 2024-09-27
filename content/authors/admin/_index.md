@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: 张杨
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Zhang Yang
 
 # Full name (for SEO)
 first_name: Shiung Wu
 last_name: Chien
 
 # Status emoji
-status:
-  icon: ☕️
+# status:
+  # icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,62 +20,60 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Postdoctoral Fellow
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Hong Kong Polytechnic University
+    # url: https://openai.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'zhangyang9696@foxmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://github.com/zynolo
+  # - icon: brands/linkedin
+    # url: https://www.linkedin.com/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://scholar.google.com.hk/citations?user=p_m9Nj4AAAAJ&hl=zh-CN
+  # - icon: academicons/orcid
+    # url: https://orcid.org/
 
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+Research foucs:
+  - Reinforcement Learning
+  - Multi-agent System
+  - large Language Model
+  - Smart Grid
+  - Intelligent Transportation System
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Control Science and Engineering
+    institution: Xi'an Jiaotong University
+    date_start: 2018-09-01
+    date_end: 2023-03-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+      Thesis on _Why LLMs are awesome_. Supervised by [Prof Yang Qingyu](https://gr.xjtu.edu.cn/web/yangqingyu).
+    # button:
+      # text: 'Read Thesis'
+      # url: 'https://example.com'
+  # - area: MEng Artificial Intelligence
+    # institution: Massachusetts Institute of Technology
+    # date_start: 2016-01-01
+    # date_end: 2020-12-31
+    # summary: |
+      # GPA: 3.8/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      # Courses included:
+      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: BSc Automation
+    institution: Xi'an Jiaotong University
+    date_start: 2014-09-01
+    date_end: 2018-06-30
     summary: |
       GPA: 3.4/4.0
       
