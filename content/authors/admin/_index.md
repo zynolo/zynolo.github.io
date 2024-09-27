@@ -181,4 +181,5 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Zhang Yang is a postdoctoral fellow of Hong Kong Polytechnic University, supervised by Prof. Edward Chung. His research interests include reinforcement learning, multi-agent systems, Large Language models, smart grid and energy market. He focus on developing efficient and practical intelligent control algorithms based on reinforcement learning and language model. He also has great interests in the application of reinforcement
+learning in practical problems like electricity dispatch, intelligent traffic and news generation.
