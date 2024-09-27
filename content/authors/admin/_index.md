@@ -6,8 +6,8 @@ title: 张杨
 name_pronunciation: Zhang Yang
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Yang
+last_name: Zhang
 
 # Status emoji
 # status:
@@ -82,28 +82,23 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: Postdoctoral Fellow
+    company_name: Hong Kong Polytechnic University
+    date_start: 2024-09
+    date_end: 'Now'
+    # summary: |2-
+      # Responsibilities include:
+      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: Research Associate
+    company_name: Chinese University of Hong Kong
+    date_start: 2024-04
+    date_end: 2024-08
+  - position: Assistant Researcher
+    company_name: Zhejiang Lab
+    date_start: 2023-04
+    date_end: 2024-03
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -181,5 +176,4 @@ awards:
 
 ## About Me
 
-Zhang Yang is a postdoctoral fellow of Hong Kong Polytechnic University, supervised by Prof. Edward Chung. His research interests include reinforcement learning, multi-agent systems, Large Language models, smart grid and energy market. He focus on developing efficient and practical intelligent control algorithms based on reinforcement learning and language model. He also has great interests in the application of reinforcement
-learning in practical problems like electricity dispatch, intelligent traffic and news generation.
+Zhang Yang is a postdoctoral fellow of Hong Kong Polytechnic University, supervised by Prof. Edward Chung. He focus on developing efficient and practical intelligent control algorithms based on reinforcement learning and language model. He also has great interests in the application of reinforcement learning in practical problems like electricity dispatch, intelligent traffic and news generation.
