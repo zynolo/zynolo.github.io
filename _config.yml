@@ -6,8 +6,10 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+title                    : "Yang Zhang"
+description              : " I am now a Postdoctoral Fellow at Hong Kong Polytechnic University, under the supervision of Prof. Edward Chung.
+                            I am interested in modern AI technologies, especially for reinforcement learning and large language models, 
+                            and hope to use them to tackle the challenging control and optimization problems in power and transportation system. "
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
