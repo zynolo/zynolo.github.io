@@ -32,19 +32,27 @@ I have a closed collaboration with a Start-up, MemOS. (https://memos.openmem.net
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- **Yang Zhang**, Yu Yu, Bo Tang, Yu Zhu, et al. Token-level Accept or Reject: A micro alignment approach for Large Language Models [C]. **IJCAI, 2025**.
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+- **Yang Zhang**, Qingyu Yang, Dou An, Donehe Li, et al. Coordination Multistep Multiagent Reinforcement Learning for Optimal Energy Schedule Strategy of Charging Stations in Smart Grid [J]. **IEEE Transactions on Cybernetics, 2023**.
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+- **Yang Zhang**, Qingyu Yang, Donghe Li, Dou An. A Reinforcement and Imitation Learning Method for Pricing Strategy of Electricity Retailer with Customers' Flexibility [J]. **Applied Energy, 2022**.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+- **Yang Zhang**, Bo Tang, Qingyu Yang, Dou An, et al. BCORLE(λ): An Offline Reinforcement Learning and Evaluation Framework for Coupons Allocation in E-commerce Market [C]. **NeurIPS, 2021**.
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- **Yang Zhang**, Qingyu Yang, Dou An, Chengwei Zhang. Coordination Between Individual Agents in Multi-Agent Reinforcement Learning [C]. **AAAI, 2021**.
+
+- **Yang Zhang**, Zhengfeng Zhang, Qingyu Yang, Dou An, et al. EV charging bidding by Multi-DQN reinforcement learning in electricity auction Market [J]. **Neurocomputing, 2020**.
+
+- **Yang Zhang**, Qingyu Yang, Dou An, Donghe Li, et al. An Online Continuous Progressive Second Price Auction for Electric Vehicle Charging [J]. **IEEE Internet of Things Journal, 2019**.
+
+- **Yang Zhang**, Qingyu Yang, Dou An, Donghe Li. A blockchain based peer-to-peer electricity trading mechanism in residential electricity market [C]. **Chinese Automation Congress, 2018**.
+
+- Zhihe Yang, Yunjian Xu, **Yang Zhang**. Q-Supervised Contrastive Representation: A State Decoupling Framework for Safe Offline Reinforcement Learning [C]. **ICML, 2025**.
+
+- Lindong Xie, **Yang Zhang**, Zhixian Tang, Edward Chung, et al. Co-Evolution of Large Language Models and Configuration Strategies to Enhance Surrogate-Assisted Evolutionary Algorithm [C]. **KDD, 2025**.
+  
+- Donghe Li, Qingyu Yang, Wei Yu, Dou An, **Yang Zhang**. Towards differential privacy-based online double auction for smart grid [J]. **IEEE Transactions on Information Forensics and Security, 2020**.
 
 # 🎖 Honors and Awards
 - *2025.11* Outstanding Doctoral Dissertations of Shaanxi Province (陕西省优秀博士论文) 
