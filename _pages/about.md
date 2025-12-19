@@ -23,7 +23,7 @@ I am interested in modern AI technologies, especially for **reinforcement learni
 
 I have published several papers, including eight as first author, in top international AI conferences such as NeurIPS, ICML, KDD, IJCAI, and AAAI, as well as in leading journals including IEEE Transactions and Applied Energy. I have served as a reviewer for ICLR, AAAI, IJCAI, and various IEEE Transactions journals. Moreover, I am the first inventor on two granted patents.
 
-I maintain a close collaboration with the startup [MemOS](https://memos.openmem.net/cn/). More details can be found in my chinese [CV]()
+I maintain a close collaboration with the startup [MemOS](https://memos.openmem.net/cn/). More details can be found in my chinese [CV](Resume_Chinese.pdf)
 
 # 🔥 News
 - *2025.11*: &nbsp;🎉🎉 My doctoral desseration was awarded as "Outstanding Doctoral Dissertations of Shaanxi Province (陕西省优秀博士论文)"
