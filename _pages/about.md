@@ -23,7 +23,7 @@ I am interested in modern AI technologies, especially for **reinforcement learni
 
 I have published several papers, including eight as first author, in top international AI conferences such as NeurIPS, ICML, KDD, IJCAI, and AAAI, as well as in leading journals including IEEE Transactions and Applied Energy. I have served as a reviewer for ICLR, AAAI, IJCAI, and various IEEE Transactions journals. Moreover, I am the first inventor on two granted patents.
 
-I maintain a close collaboration with the startup [MemOS](https://memos.openmem.net/cn/). More details can be found in my Chinese [CV](Resume__Chinese_.pdf)
+I maintain a close collaboration with the startup [MemOS](https://memos.openmem.net/cn/). More details can be found in my Chinese [CV](Resume__Chinese_.pdf).
 
 # 🔥 News
 - *2025.11*: &nbsp;🎉🎉 My doctoral desseration was awarded as "Outstanding Doctoral Dissertations of Shaanxi Province (陕西省优秀博士论文)"
@@ -58,12 +58,12 @@ I maintain a close collaboration with the startup [MemOS](https://memos.openmem.
   
 
 # 🎖 Honors and Awards
-- *2025.11* Outstanding Doctoral Dissertations of Shaanxi Province (陕西省优秀博士论文) 
-- *2025.05* Outstanding Doctoral Dissertations of Xi'an Jiaotong Univerisity (西安交通大学优秀博士论文)
-- *2024.04* First Prize of the Shaanxi Higher Education Science and Technology Award, Ranked 4th (陕西高等学校科学技术奖一等奖)
-- *2022.10* Top 15 Doctoral candidate in Xi'an Jiaotong University (西安交通大学优秀研究生标兵)
-- *2022.10* National Scholarship (国家奖学金)
-- *2017.10* National Encouragement Scholarship (国家励志奖学金)
+- *2025.11* Outstanding Doctoral Dissertations of Shaanxi Province (陕西省优秀博士论文).
+- *2025.05* Outstanding Doctoral Dissertations of Xi'an Jiaotong Univerisity (西安交通大学优秀博士论文).
+- *2024.04* First Prize of the Shaanxi Higher Education Science and Technology Award, Ranked 4th (陕西高等学校科学技术奖一等奖).
+- *2022.10* Top 15 Doctoral candidate in Xi'an Jiaotong University (西安交通大学优秀研究生标兵).
+- *2022.10* National Scholarship (国家奖学金).
+- *2017.10* National Encouragement Scholarship (国家励志奖学金).
  
 # 📖 Educations
 - *2018.09 - 2023.03*, Xi'an Jiaotong Univerisity, Ph.D. 
@@ -73,11 +73,11 @@ I maintain a close collaboration with the startup [MemOS](https://memos.openmem.
 - *2024.09 - now*, Hong Kong Polytechnic University, Postdoctoral Fellow. 
 - *2024.04 - 2024.08*, Chinese University of Hong Kong, Research Associate.
 - *2023.04 - 2024.03*, Zhejiang Lab, Assistant Researcher.
-- *2020.12 - 2021.03*, Alibaba Group, Research Intern
+- *2020.12 - 2021.03*, Alibaba Group, Research Intern.
 
 # 💬 Invited Talks
-- *2025.12*, Shanghai Jiaotong University, Paris Elite Institute of Technology. Large Language Model and Reinforcement Learning Hybrid-Driven Data-Efficient Control 
-- *2025.05*, Hong Kong Polytechnic University, Stackelberg Equilibrium-based Multi-agent Reinforcement Learning for Electric Vehicles Charging Scheduling
-- *2023.03*, Xi'an Jiaotong University, The Student Speaker of Graduation Ceremony 
-- *2022.05*, RL China (Online). Offline Reinforcement Learning-based Coupons Allocation in E-commerce Market
-- *2021.01*, Alibaba Group. Agent Correlation-based Multi-agent Reinforcement Learning
+- *2025.12*, Shanghai Jiaotong University, Paris Elite Institute of Technology. Large Language Model and Reinforcement Learning Hybrid-Driven Data-Efficient Control.
+- *2025.05*, Hong Kong Polytechnic University, Stackelberg Equilibrium-based Multi-agent Reinforcement Learning for Electric Vehicles Charging Scheduling.
+- *2023.03*, Xi'an Jiaotong University, The Student Speaker of Graduation Ceremony.
+- *2022.05*, RL China (Online). Offline Reinforcement Learning-based Coupons Allocation in E-commerce Market.
+- *2021.01*, Alibaba Group. Agent Correlation-based Multi-agent Reinforcement Learning.
