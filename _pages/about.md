@@ -17,9 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am now a Postdoctoral Fellow at Hong Kong Polytechnic University, under the supervision of Prof. [Edward Chung](https://www.edwardchung.com/). I am interested in modern AI technologies, especially for **reinforcement learning** and **large language models**, and hope to use them to tackle the challenging control and optimization problems in power and transportation system.
+I am now a Postdoctoral Fellow at Hong Kong Polytechnic University, under the supervision of Prof. [Edward Chung](https://www.edwardchung.com/). I obtained my B.S. and Ph.D. degrees from Xi'an Jiaotong University under the supervision of Prof. [Qingyu Yang](https://gr.xjtu.edu.cn/en/web/yangqingyu). 
 
-I have published several papers, including eight as first author, in top international AI conferences such as NeurIPS, ICML, KDD, IJCAI, and AAAI, as well as in leading journals including IEEE Transactions and Applied Energy. I have served as a reviewer for ICLR, AAAI, IJCAI, and various IEEE Transactions journals.
+I am interested in modern AI technologies, especially for **reinforcement learning** and **large language models**, and hope to use them to tackle the challenging control and optimization problems in power and transportation system.
+
+I have published several papers, including eight as first author, in top international AI conferences such as NeurIPS, ICML, KDD, IJCAI, and AAAI, as well as in leading journals including IEEE Transactions and Applied Energy. I have served as a reviewer for ICLR, AAAI, IJCAI, and various IEEE Transactions journals. Moreover, I am the first inventor on two granted patents.
 
 I maintain a close collaboration with the startup [MemOS](https://memos.openmem.net/cn/).
 
