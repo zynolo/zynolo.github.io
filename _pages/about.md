@@ -17,14 +17,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am now a Postdoctoral Fellow at Hong Kong Polytechnic University, under the supervision of Prof. Edward Chung. I am interested in modern AI technologies, especially for reinforcement learning and large language models, and hope to use them to tackle the challenging control and optimization problems in power and transportation system.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I have published some papers (8 in first author) at the top international AI conferences, such as NeurIPS, ICML, KDD, IJCAI, and AAAI, and on some Journals, like IEEE Trans and Applied Energy. I served as reviewers in ICLR, AAAI, IJCAI, and IEEE Trans Journals.
 
+I have a closed collaboration with a Start-up, MemOS. (https://memos.openmem.net/cn/)
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.11*: &nbsp;🎉🎉 My doctoral desseration was awarded as "Outstanding Doctoral Dissertations of Shaanxi Province (陕西省优秀博士论文)"
+- *2025.11*: &nbsp;🎉🎉 I give a talk in Shanghai Jiaotong University, Paris Elite Institute of Technology.
+- *2025.05*: &nbsp;🎉🎉 One paper is accepted by KDD 2025.
+- *2025.05*: &nbsp;🎉🎉 One paper is accepted by ICML 2025.
+- *2025.05*: &nbsp;🎉🎉 One paper is accepted by IJCAI 2025. 
 
 # 📝 Publications 
 
