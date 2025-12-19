@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am now a Postdoctoral Fellow at Hong Kong Polytechnic University, under the supervision of Prof. [Edward Chung](https://www.edwardchung.com/). I am interested in modern AI technologies, especially for reinforcement learning and large language models, and hope to use them to tackle the challenging control and optimization problems in power and transportation system.
+I am now a Postdoctoral Fellow at Hong Kong Polytechnic University, under the supervision of Prof. [Edward Chung](https://www.edwardchung.com/). I am interested in modern AI technologies, especially for **reinforcement learning** and **large language models**, and hope to use them to tackle the challenging control and optimization problems in power and transportation system.
 
-I have published some papers (8 in first author) at the top international AI conferences, such as NeurIPS, ICML, KDD, IJCAI, and AAAI, and on some Journals, like IEEE Trans and Applied Energy. I served as reviewers in ICLR, AAAI, IJCAI, and IEEE Trans Journals.
+I have published several papers, including eight as first author, in top international AI conferences such as NeurIPS, ICML, KDD, IJCAI, and AAAI, as well as in leading journals including IEEE Transactions and Applied Energy. I have served as a reviewer for ICLR, AAAI, IJCAI, and various IEEE Transactions journals.
 
-I have a closed collaboration with a Start-up, [MemOS](https://memos.openmem.net/cn/).
+I maintain a close collaboration with the startup [MemOS](https://memos.openmem.net/cn/).
 
 # 🔥 News
 - *2025.11*: &nbsp;🎉🎉 My doctoral desseration was awarded as "Outstanding Doctoral Dissertations of Shaanxi Province (陕西省优秀博士论文)"
@@ -33,6 +33,10 @@ I have a closed collaboration with a Start-up, [MemOS](https://memos.openmem.net
 # 📝 Publications 
 
 - **Yang Zhang**, Yu Yu, Bo Tang, Yu Zhu, et al. Token-level Accept or Reject: A micro alignment approach for Large Language Models [C]. **IJCAI, 2025**.
+  
+- Zhihe Yang, Yunjian Xu, **Yang Zhang**. Q-Supervised Contrastive Representation: A State Decoupling Framework for Safe Offline Reinforcement Learning [C]. **ICML, 2025**.
+
+- Lindong Xie, **Yang Zhang**, Zhixian Tang, Edward Chung, et al. Co-Evolution of Large Language Models and Configuration Strategies to Enhance Surrogate-Assisted Evolutionary Algorithm [C]. **KDD, 2025**.
 
 - **Yang Zhang**, Qingyu Yang, Dou An, Donehe Li, et al. Coordination Multistep Multiagent Reinforcement Learning for Optimal Energy Schedule Strategy of Charging Stations in Smart Grid [J]. **IEEE Transactions on Cybernetics, 2023**.
 
@@ -42,17 +46,14 @@ I have a closed collaboration with a Start-up, [MemOS](https://memos.openmem.net
 
 - **Yang Zhang**, Qingyu Yang, Dou An, Chengwei Zhang. Coordination Between Individual Agents in Multi-Agent Reinforcement Learning [C]. **AAAI, 2021**.
 
+- Donghe Li, Qingyu Yang, Wei Yu, Dou An, **Yang Zhang**. Towards differential privacy-based online double auction for smart grid [J]. **IEEE Transactions on Information Forensics and Security, 2020**.
+
 - **Yang Zhang**, Zhengfeng Zhang, Qingyu Yang, Dou An, et al. EV charging bidding by Multi-DQN reinforcement learning in electricity auction Market [J]. **Neurocomputing, 2020**.
 
 - **Yang Zhang**, Qingyu Yang, Dou An, Donghe Li, et al. An Online Continuous Progressive Second Price Auction for Electric Vehicle Charging [J]. **IEEE Internet of Things Journal, 2019**.
 
 - **Yang Zhang**, Qingyu Yang, Dou An, Donghe Li. A blockchain based peer-to-peer electricity trading mechanism in residential electricity market [C]. **Chinese Automation Congress, 2018**.
-
-- Zhihe Yang, Yunjian Xu, **Yang Zhang**. Q-Supervised Contrastive Representation: A State Decoupling Framework for Safe Offline Reinforcement Learning [C]. **ICML, 2025**.
-
-- Lindong Xie, **Yang Zhang**, Zhixian Tang, Edward Chung, et al. Co-Evolution of Large Language Models and Configuration Strategies to Enhance Surrogate-Assisted Evolutionary Algorithm [C]. **KDD, 2025**.
   
-- Donghe Li, Qingyu Yang, Wei Yu, Dou An, **Yang Zhang**. Towards differential privacy-based online double auction for smart grid [J]. **IEEE Transactions on Information Forensics and Security, 2020**.
 
 # 🎖 Honors and Awards
 - *2025.11* Outstanding Doctoral Dissertations of Shaanxi Province (陕西省优秀博士论文) 
