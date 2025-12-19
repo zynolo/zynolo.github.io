@@ -25,7 +25,7 @@ I have a closed collaboration with a Start-up, MemOS. (https://memos.openmem.net
 
 # 🔥 News
 - *2025.11*: &nbsp;🎉🎉 My doctoral desseration was awarded as "Outstanding Doctoral Dissertations of Shaanxi Province (陕西省优秀博士论文)"
-- *2025.11*: &nbsp;🎉🎉 I give a talk in Shanghai Jiaotong University, Paris Elite Institute of Technology.
+- *2025.11*: &nbsp;🙌🙌 I give a talk in Shanghai Jiaotong University, Paris Elite Institute of Technology.
 - *2025.05*: &nbsp;🎉🎉 One paper is accepted by KDD 2025.
 - *2025.05*: &nbsp;🎉🎉 One paper is accepted by ICML 2025.
 - *2025.05*: &nbsp;🎉🎉 One paper is accepted by IJCAI 2025. 
@@ -47,16 +47,26 @@ I have a closed collaboration with a Start-up, MemOS. (https://memos.openmem.net
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+- *2025.11* Outstanding Doctoral Dissertations of Shaanxi Province (陕西省优秀博士论文) 
+- *2025.05* Outstanding Doctoral Dissertations of Xi'an Jiaotong Univerisity (西安交通大学优秀博士论文)
+- *2024.04* First Prize of the Shaanxi Higher Education Science and Technology Award, Ranked 4th (陕西高等学校科学技术奖一等奖)
+- *2022.10* Top 15 Doctoral candidate in Xi'an Jiaotong University (西安交通大学优秀研究生标兵)
+- *2022.10* National Scholarship (国家奖学金)
+- *2017.10* National Encouragement Scholarship (国家励志奖学金)
+ 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2018.09 - 2023.03*, Xi'an Jiaotong Univerisity, Ph.D. 
+- *2014.09 - 2018.06*, Xi'an Jiaotong Univerisity, Bachelor.
+
+# 🏬 Work Experiences
+- *2024.09 - now*, Hong Kong Polytechnic University, Postdoctoral Fellow. 
+- *2024.04 - 2024.08*, Chinese University of Hong Kong, Research Associate.
+- *2023.04 - 2024.03*, Zhejiang Lab, Assistant Researcher.
+- *2020.12 - 2021.03*, Alibaba Group, Research Intern
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2025.12*, Shanghai Jiaotong University, Paris Elite Institute of Technology. Large Language Model and Reinforcement Learning Hybrid-Driven Data-Efficient Control 
+- *2025.05*, Hong Kong Polytechnic University, Stackelberg Equilibrium-based Multi-agent Reinforcement Learning for Electric Vehicles Charging Scheduling
+- *2023.03*, Xi'an Jiaotong University, The Student Speaker of Graduation Ceremony 
+- *2022.05*, RL China (Online). Offline Reinforcement Learning-based Coupons Allocation in E-commerce Market
+- *2021.01*, Alibaba Group. Agent Correlation-based Multi-agent Reinforcement Learning
