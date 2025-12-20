@@ -30,7 +30,7 @@ I maintain a close collaboration with the startup [MemOS](https://memos.openmem.
 - *2025.11*: &nbsp;🙌🙌 I give a talk in Shanghai Jiaotong University, Paris Elite Institute of Technology.
 - *2025.05*: &nbsp;🎉🎉 One paper is accepted by KDD 2025.
 - *2025.05*: &nbsp;🎉🎉 One paper is accepted by ICML 2025.
-- *2025.05*: &nbsp;🎉🎉 One paper is accepted by IJCAI 2025. 
+- *2025.04*: &nbsp;🎉🎉 One paper is accepted by IJCAI 2025. 
 
 # 📝 Publications 
 
