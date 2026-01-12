@@ -16,8 +16,9 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+Hello! Welcome to the website of Zhang Yang (张杨).
 
-I am now a Postdoctoral Fellow at Hong Kong Polytechnic University, under the supervision of Prof. [Edward Chung](https://www.edwardchung.com/). I obtained my B.S. and Ph.D. degrees from Xi'an Jiaotong University under the supervision of Prof. [Qingyu Yang](https://gr.xjtu.edu.cn/en/web/yangqingyu). 
+I am now a Postdoctoral Fellow at Hong Kong Polytechnic University, under the supervision of Prof. [Edward Chung](https://www.edwardchung.com/). I obtained my B.S. and Ph.D. degrees from Xi'an Jiaotong University under the supervision of Prof. [Qingyu Yang，杨清宇](https://gr.xjtu.edu.cn/en/web/yangqingyu). 
 
 I am interested in modern AI technologies, especially for **reinforcement learning** and **large language models**, and hope to use them to tackle the challenging control and optimization problems in power and transportation system.
 
@@ -26,6 +27,7 @@ I have published several papers, including eight as first author, in top interna
 I maintain a close collaboration with the startup [MemOS](https://memos.openmem.net/cn/). More details can be found in my Chinese [CV](Resume__Chinese_.pdf).
 
 # 🔥 News
+- *2026.01*: &nbsp;🙌🙌 I give a talk in Tongji University, School of Electronic and Information Engineering.
 - *2025.11*: &nbsp;🎉🎉 My doctoral desseration was awarded as "Outstanding Doctoral Dissertations of Shaanxi Province (陕西省优秀博士论文)"
 - *2025.11*: &nbsp;🙌🙌 I give a talk in Shanghai Jiaotong University, Paris Elite Institute of Technology.
 - *2025.05*: &nbsp;🎉🎉 One paper is accepted by KDD 2025.
