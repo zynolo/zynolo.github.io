@@ -20,7 +20,7 @@ Hello! Welcome to the website of Zhang Yang (张杨).
 
 I am now a Postdoctoral Fellow at Hong Kong Polytechnic University, under the supervision of Prof. [Edward Chung](https://www.edwardchung.com/). I obtained my B.S. and Ph.D. degrees from Xi'an Jiaotong University under the supervision of Prof. [Qingyu Yang，杨清宇](https://gr.xjtu.edu.cn/en/web/yangqingyu). 
 
-I am interested in modern AI technologies, especially for **reinforcement learning** and **large language models**, and hope to use them to tackle the challenging control and optimization problems in power and transportation system.
+I am deeply interested in modern AI, particularly **reinforcement learning** and **large language models**, and hope to use them to tackle the challenging control and optimization problems in power dispatch at the nexus of smart grids and intelligent transportation systems.
 
 I have published several papers, including eight as first author, in top international AI conferences such as NeurIPS, ICML, KDD, IJCAI, and AAAI, as well as in leading journals including IEEE Transactions and Applied Energy. I have served as a reviewer for ICLR, AAAI, IJCAI, and various IEEE Transactions journals. Moreover, I am the first inventor on two granted patents.
 
