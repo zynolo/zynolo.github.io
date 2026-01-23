@@ -27,6 +27,7 @@ I have published several papers, including eight as first author, in top interna
 I maintain a close collaboration with the startup [MemOS](https://memos.openmem.net/cn/). More details can be found in my Chinese [CV](Resume__Chinese_.pdf).
 
 # 🔥 News
+- *2026.01*: &nbsp;🎉🎉 One paper is accepted by TNNLS.
 - *2026.01*: &nbsp;🙌🙌 I give a talk in Tongji University, School of Electronic and Information Engineering.
 - *2025.11*: &nbsp;🎉🎉 My doctoral desseration was awarded as "Outstanding Doctoral Dissertations of Shaanxi Province (陕西省优秀博士论文)"
 - *2025.11*: &nbsp;🙌🙌 I give a talk in Shanghai Jiaotong University, Paris Elite Institute of Technology.
@@ -35,6 +36,8 @@ I maintain a close collaboration with the startup [MemOS](https://memos.openmem.
 - *2025.04*: &nbsp;🎉🎉 One paper is accepted by IJCAI 2025. 
 
 # 📝 Publications 
+
+- **Yang Zhang**, Yunjian Xu, Chengwei Zhang, Chao Wang, et al. Rethinking the Utilization of Individual Rewards in Multi-Agent Reinforcement Learning with Sparse Team Rewards [J]. **TNNLS, 2026**.
 
 - **Yang Zhang**, Yu Yu, Bo Tang, Yu Zhu, et al. Token-level Accept or Reject: A micro alignment approach for Large Language Models [C]. **IJCAI, 2025**.
   
