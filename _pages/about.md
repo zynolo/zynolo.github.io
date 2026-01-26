@@ -18,11 +18,11 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 Hello! Welcome to the website of Zhang Yang (张杨).
 
-I am now a Postdoctoral Fellow at Hong Kong Polytechnic University, under the supervision of Prof. [Edward Chung](https://www.edwardchung.com/). I obtained my B.S. and Ph.D. degrees from Xi'an Jiaotong University under the supervision of Prof. [Qingyu Yang，杨清宇](https://gr.xjtu.edu.cn/en/web/yangqingyu). 
+I am now a Postdoctoral Fellow at Hong Kong Polytechnic University, under the supervision of Prof. [Edward Chung](https://www.edwardchung.com/). I obtained my B.S. and Ph.D. degrees from Xi'an Jiaotong University advised by Prof. [Qingyu Yang，杨清宇](https://gr.xjtu.edu.cn/en/web/yangqingyu). 
 
 I am deeply interested in modern AI, particularly **reinforcement learning** and **large language models**, and hope to use them to tackle the challenging control and optimization problems in power dispatch at the nexus of smart grids and intelligent transportation systems.
 
-I have published several papers, including eight as first author, in top international AI conferences such as NeurIPS, ICML, KDD, IJCAI, and AAAI, as well as in leading journals including IEEE Transactions and Applied Energy. I have served as a reviewer for ICLR, AAAI, IJCAI, and various IEEE Transactions journals. Moreover, I am the first inventor on two granted patents.
+I have published several papers, including nine as first author, in top international AI conferences such as NeurIPS, ICML, KDD, IJCAI, and AAAI, as well as in leading journals including IEEE Transactions and Applied Energy. I have served as a reviewer for ICLR, AAAI, IJCAI, and various IEEE Transactions journals. Moreover, I am the first inventor on two granted patents.
 
 I maintain a close collaboration with the startup [MemOS](https://memos.openmem.net/cn/). More details can be found in my Chinese [CV](Resume__Chinese_.pdf).
 
@@ -33,7 +33,8 @@ I maintain a close collaboration with the startup [MemOS](https://memos.openmem.
 - *2025.11*: &nbsp;🙌🙌 I give a talk in Shanghai Jiaotong University, Paris Elite Institute of Technology.
 - *2025.05*: &nbsp;🎉🎉 One paper is accepted by KDD 2025.
 - *2025.05*: &nbsp;🎉🎉 One paper is accepted by ICML 2025.
-- *2025.04*: &nbsp;🎉🎉 One paper is accepted by IJCAI 2025. 
+- *2025.04*: &nbsp;🎉🎉 One paper is accepted by IJCAI 2025.
+- *2025.02*: &nbsp;🙌🙌 I recevided The Hong Kong Polytechnic University Postdoctoral Matching Fund.
 
 # 📝 Publications 
 
@@ -65,6 +66,7 @@ I maintain a close collaboration with the startup [MemOS](https://memos.openmem.
 # 🎖 Honors and Awards
 - *2025.11* Outstanding Doctoral Dissertations of Shaanxi Province (陕西省优秀博士论文).
 - *2025.05* Outstanding Doctoral Dissertations of Xi'an Jiaotong Univerisity (西安交通大学优秀博士论文).
+- *2025.02* Hong Kong Polytechnic University Postdoctoral Matching Fund.
 - *2024.04* First Prize of the Shaanxi Higher Education Science and Technology Award, Ranked 4th (陕西高等学校科学技术奖一等奖).
 - *2022.10* Top 15 Doctoral candidate in Xi'an Jiaotong University (西安交通大学优秀研究生标兵).
 - *2022.10* National Scholarship (国家奖学金).
@@ -81,6 +83,7 @@ I maintain a close collaboration with the startup [MemOS](https://memos.openmem.
 - *2020.12 - 2021.03*, Alibaba Group, Research Intern.
 
 # 💬 Invited Talks
+- *2026.01*, Tongji University, School of Electronic and Information Engineering. Intelligent Decision-Making Algorithm Driven by Reinforcement Learning and Large Language Models and Its Application in Electric Vehicle Charging Scheduling.
 - *2025.12*, Shanghai Jiaotong University, Paris Elite Institute of Technology. Large Language Model and Reinforcement Learning Hybrid-Driven Data-Efficient Control.
 - *2025.05*, Hong Kong Polytechnic University, Stackelberg Equilibrium-based Multi-agent Reinforcement Learning for Electric Vehicles Charging Scheduling.
 - *2023.03*, Xi'an Jiaotong University, The Student Speaker of Graduation Ceremony.
