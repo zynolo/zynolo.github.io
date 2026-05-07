@@ -40,7 +40,7 @@ I maintain a close collaboration with the startup [MemOS](https://memos.openmem.
 # 📝 Publications 
 
 - Gaojunjie Li, Siqi Bu, Edward Chung, Fuzhang Wu ,Ruoheng Wang, **Yang Zhang**. Multi-Charging Station Pricing Strategy for Real-Time Congestion Management in Coupled Traffic-Power Networks [J]. **IEEE Transactions on Smart Grid, 2026**.
-- 
+
 - **Yang Zhang**, Yunjian Xu, Chengwei Zhang, Chao Wang, et al. Rethinking the Utilization of Individual Rewards in Multi-Agent Reinforcement Learning with Sparse Team Rewards [J]. **IEEE Transactions on Neural Networks and Learning Systems, 2026**.
 
 - **Yang Zhang**, Yu Yu, Bo Tang, Yu Zhu, et al. Token-level Accept or Reject: A micro alignment approach for Large Language Models [C]. **IJCAI, 2025**.
