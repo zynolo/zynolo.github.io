@@ -27,6 +27,7 @@ I have published several papers, including nine as first author, in top internat
 I maintain a close collaboration with the startup [MemOS](https://memos.openmem.net/cn/). More details can be found in my Chinese [CV](Resume__Chinese_.pdf).
 
 # 🔥 News
+- *2026.05*: &nbsp;🎉🎉 One paper is accepted by TSG.
 - *2026.01*: &nbsp;🎉🎉 One paper is accepted by TNNLS.
 - *2026.01*: &nbsp;🙌🙌 I give a talk in Tongji University, School of Electronic and Information Engineering.
 - *2025.11*: &nbsp;🎉🎉 My doctoral desseration was awarded as "Outstanding Doctoral Dissertations of Shaanxi Province (陕西省优秀博士论文)"
@@ -38,7 +39,9 @@ I maintain a close collaboration with the startup [MemOS](https://memos.openmem.
 
 # 📝 Publications 
 
-- **Yang Zhang**, Yunjian Xu, Chengwei Zhang, Chao Wang, et al. Rethinking the Utilization of Individual Rewards in Multi-Agent Reinforcement Learning with Sparse Team Rewards [J]. **TNNLS, 2026**.
+- Gaojunjie Li, Siqi Bu, Edward Chung, Fuzhang Wu ,Ruoheng Wang, **Yang Zhang**. Multi-Charging Station Pricing Strategy for Real-Time Congestion Management in Coupled Traffic-Power Networks [J]. **IEEE Transactions on Smart Grid, 2026**.
+- 
+- **Yang Zhang**, Yunjian Xu, Chengwei Zhang, Chao Wang, et al. Rethinking the Utilization of Individual Rewards in Multi-Agent Reinforcement Learning with Sparse Team Rewards [J]. **IEEE Transactions on Neural Networks and Learning Systems, 2026**.
 
 - **Yang Zhang**, Yu Yu, Bo Tang, Yu Zhu, et al. Token-level Accept or Reject: A micro alignment approach for Large Language Models [C]. **IJCAI, 2025**.
   
