@@ -22,7 +22,7 @@ I am now a Postdoctoral Fellow at Hong Kong Polytechnic University, under the su
 
 I am deeply interested in modern AI, particularly **reinforcement learning** and **large language models**, and hope to use them to tackle the challenging control and optimization problems in power dispatch at the nexus of smart grids and intelligent transportation systems.
 
-I have published several papers, including ten as first author, in top international AI conferences such as NeurIPS, ICML, KDD, IJCAI, and AAAI, as well as in leading journals including IEEE Transactions and Applied Energy. I have served as a reviewer for NeurIPS, ICLR, AAAI, IJCAI, SIGIR, EMNLP, and various IEEE Transactions journals. Moreover, I am the first inventor on two granted patents.
+I have published a robust portfolio of papers, including ten as first author, in top international AI conferences such as NeurIPS, ICML, KDD, IJCAI, and AAAI, as well as in leading journals including IEEE Transactions and Applied Energy. I have served as a reviewer for NeurIPS, ICLR, AAAI, IJCAI, SIGIR, EMNLP, and various IEEE Transactions journals. Moreover, I am the first inventor on two granted patents.
 
 I maintain a close collaboration with the startup [MemOS](https://memos.openmem.net/cn/). More details can be found in my Chinese [CV](Resume__Chinese_.pdf).
 
