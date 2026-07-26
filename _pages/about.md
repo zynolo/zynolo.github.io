@@ -29,7 +29,6 @@ I maintain a close collaboration with the startup [MemOS](https://memos.openmem.
 # 🔥 News
 - *2026.07*: &nbsp;🎉🎉 One paper is accepted by IOT-J.
 - *2026.05*: &nbsp;🎉🎉 One paper is accepted by TSG.
-- *2026.05*: &nbsp;🎉🎉 One paper is accepted by TSG.
 - *2026.01*: &nbsp;🎉🎉 One paper is accepted by TNNLS.
 - *2026.01*: &nbsp;🙌🙌 I give a talk in Tongji University, School of Electronic and Information Engineering.
 - *2025.11*: &nbsp;🎉🎉 My doctoral desseration was awarded as "Outstanding Doctoral Dissertations of Shaanxi Province (陕西省优秀博士论文)"
